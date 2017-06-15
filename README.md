@@ -149,6 +149,8 @@ Type: `string`
 Default: `ru`
 Supported: `ru`, `en`
 
+If locale not specified, then `ru` will be used.
+
 Example:
 ```js
 numbeo.nameById(2, "ru")
@@ -224,13 +226,20 @@ Results in:
 
 ```
 
-### Get text description of crime and safety index
-```js
-numbeo.crimeAndSafetyIndex(index, locale)
-```
+### numbeo.crimeAndSafetyIndex(index, [locale])
+Get text description of crime and safety index.
+
 Returns object with text descriptions of crime and safety indices by passing crime index. In Numbeo API safety index is a number opposite to crime index, so it's decriptions is opposite too (*high* level of *crime* means *low* level of *safety*).
 
-`locale` is language locale for returned results (now supported **ru** and **en**). If locale not specified, then **ru** will be used.
+#### index
+Type: `number`
+
+#### locale
+Type: `string`
+Default: `ru`
+Supported: `ru`, `en`
+
+If locale not specified, then `ru` will be used.
 
 Example:
 ```js
@@ -240,7 +249,7 @@ Results in:
 ```js
 {
 	"crime": "Очень низкий",
-    "safety": "Очень высокий"
+	"safety": "Очень высокий"
 }
 ```
 

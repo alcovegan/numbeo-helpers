@@ -1,0 +1,717 @@
+[
+  {
+    "id": 1,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Meal, Inexpensive Restaurant",
+      "ru": "Порция, недорогой ресторан"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 2,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Meal for 2 People, Mid-range Restaurant, Three-course",
+      "ru": "Порция на двоих, ресторан среднего класса, три блюда"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 3,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "McMeal at McDonalds (or Equivalent Combo Meal)",
+      "ru": "McMeal в Макдолнальдсе (или эквивалент комбо-еды)"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 4,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Domestic Beer (0.5 liter draught)",
+      "ru": "Местное пиво (0.5)"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 5,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Imported Beer (0.33 liter bottle)",
+      "ru": "Импортное пиво (0.33 маленькая бутылочка)"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 114,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Cappuccino (regular)",
+      "ru": "Капучино"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 6,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Coke/Pepsi (0.33 liter bottle)",
+      "ru": "Кола/Пепси (0.33)"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 7,
+    "category_name": {
+      "en": "Restaurants",
+      "ru": "Рестораны"
+    },
+    "item_name": {
+      "en": "Water (0.33 liter bottle)",
+      "ru": "Вода (0.33)"
+    },
+    "payment_type": "oneoff",
+    "slug": "restaurants"
+  },
+  {
+    "id": 8,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Milk (regular), (1 liter)",
+      "ru": "Молоко (1 л.)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 9,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Loaf of Fresh White Bread (500g)",
+      "ru": "Буханка свежего белого хлеба (500 г)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 115,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Rice (white), (1kg)",
+      "ru": "Рис (белый) (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 11,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Eggs (12)",
+      "ru": "Яйца (12)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 12,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Local Cheese (1kg)",
+      "ru": "Местный сыр (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 19,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Chicken Breasts (Boneless, Skinless), (1kg)",
+      "ru": "Куриные грудки (без костей и кожи), (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 121,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Beef Round (1kg) (or Equivalent Back Leg Red Meat)",
+      "ru": "Кусок говядины (1кг) (или эквивалент красного мяса)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 110,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Apples (1kg)",
+      "ru": "Яблоки (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 118,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Banana (1kg)",
+      "ru": "Бананы (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 111,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Oranges (1kg)",
+      "ru": "Апельсины (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 116,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Tomato (1kg)",
+      "ru": "Помидоры (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 112,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Potato (1kg)",
+      "ru": "Картошка (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 119,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Onion (1kg)",
+      "ru": "Лук (1кг)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 113,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Lettuce (1 head)",
+      "ru": "Салат (1 штука)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 13,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Water (1.5 liter bottle)",
+      "ru": "Вода (1.5)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 14,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Bottle of Wine (Mid-Range)",
+      "ru": "Бутылка вина (средний уровень)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 15,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Domestic Beer (0.5 liter bottle)",
+      "ru": "Местное пиво"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 16,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Imported Beer (0.33 liter bottle)",
+      "ru": "Импортное пиво"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 17,
+    "category_name": {
+      "en": "Markets",
+      "ru": "Рынки"
+    },
+    "item_name": {
+      "en": "Pack of Cigarettes (Marlboro)",
+      "ru": "Пачка сигарет (Marlboro)"
+    },
+    "payment_type": "oneoff",
+    "slug": "markets"
+  },
+  {
+    "id": 18,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "One-way Ticket (Local Transport)",
+      "ru": "Одна поездка (по городу)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 20,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Monthly Pass (Regular Price)",
+      "ru": "Месячный билет (обычная цена)"
+    },
+    "payment_type": "monthly",
+    "slug": "transportation"
+  },
+  {
+    "id": 107,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Taxi Start (Normal Tariff)",
+      "ru": "Посадка в такси (обычный тариф)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 108,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Taxi 1km (Normal Tariff)",
+      "ru": "Такси 1 км (обычный тариф)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 109,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Taxi 1hour Waiting (Normal Tariff)",
+      "ru": "Такси 1 час ожидания (обычный тариф)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 24,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Gasoline (1 liter)",
+      "ru": "Бензин (1 л)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 25,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Volkswagen Golf 1.4 90 KW Trendline (Or Equivalent New Car)",
+      "ru": "Фольксваген Гольф 1.4 90 KW Trendline (или эквивалент новой машины)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 206,
+    "category_name": {
+      "en": "Transportation",
+      "ru": "Передвижение"
+    },
+    "item_name": {
+      "en": "Toyota Corolla 1.6l 97kW Comfort (Or Equivalent New Car)",
+      "ru": "Тойота Королла 1.6l 97kW Comfort (или эквивалентная новая машина)"
+    },
+    "payment_type": "oneoff",
+    "slug": "transportation"
+  },
+  {
+    "id": 30,
+    "category_name": {
+      "en": "Utilities (Monthly)",
+      "ru": "Коммунальные услуги (ежемесячно)"
+    },
+    "item_name": {
+      "en": "Basic (Electricity, Heating, Water, Garbage) for 85m2 Apartment",
+      "ru": "Основные (Электричество, отопление, вода, мусор) для 85м2 квартиры"
+    },
+    "payment_type": "monthly",
+    "slug": "utilities"
+  },
+  {
+    "id": 32,
+    "category_name": {
+      "en": "Utilities (Monthly)",
+      "ru": "Коммунальные услуги (ежемесячно)"
+    },
+    "item_name": {
+      "en": "1 min. of Prepaid Mobile Tariff Local (No Discounts or Plans)",
+      "ru": "1 мин. мобильного тарифа (без скидок)"
+    },
+    "payment_type": "monthly",
+    "slug": "utilities"
+  },
+  {
+    "id": 33,
+    "category_name": {
+      "en": "Utilities (Monthly)",
+      "ru": "Коммунальные услуги (ежемесячно)"
+    },
+    "item_name": {
+      "en": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)",
+      "ru": "Интернет (60 Mbps или больше, безлимитный трафик, Cable/ADSL)"
+    },
+    "payment_type": "monthly",
+    "slug": "utilities"
+  },
+  {
+    "id": 40,
+    "category_name": {
+      "en": "Sports And Leisure",
+      "ru": "Спорт и отдых"
+    },
+    "item_name": {
+      "en": "Fitness Club, Monthly Fee for 1 Adult",
+      "ru": "Фитнес-клуб (1 взрослый, месяц)"
+    },
+    "payment_type": "monthly",
+    "slug": "sportsleisure"
+  },
+  {
+    "id": 42,
+    "category_name": {
+      "en": "Sports And Leisure",
+      "ru": "Спорт и отдых"
+    },
+    "item_name": {
+      "en": "Tennis Court Rent (1 Hour on Weekend)",
+      "ru": "Теннисный корт (1 час в неделю)"
+    },
+    "payment_type": "oneoff",
+    "slug": "sportsleisure"
+  },
+  {
+    "id": 44,
+    "category_name": {
+      "en": "Sports And Leisure",
+      "ru": "Спорт и отдых"
+    },
+    "item_name": {
+      "en": "Cinema, International Release, 1 Seat",
+      "ru": "Кино (межд-ый релиз, 1 место)"
+    },
+    "payment_type": "oneoff",
+    "slug": "sportsleisure"
+  },
+  {
+    "id": 224,
+    "category_name": {
+      "en": "Childcare",
+      "ru": "Дети"
+    },
+    "item_name": {
+      "en": "Preschool (or Kindergarten), Private, Monthly for 1 Child",
+      "ru": ""
+    },
+    "payment_type": "monthly",
+    "slug": "childcare"
+  },
+  {
+    "id": 228,
+    "category_name": {
+      "en": "Childcare",
+      "ru": "Дети"
+    },
+    "item_name": {
+      "en": "International Primary School, Yearly for 1 Child",
+      "ru": ""
+    },
+    "payment_type": "yearly",
+    "slug": "childcare"
+  },
+  {
+    "id": 60,
+    "category_name": {
+      "en": "Clothing And Shoes",
+      "ru": "Одежда и обувь"
+    },
+    "item_name": {
+      "en": "1 Pair of Jeans (Levis 501 Or Similar)",
+      "ru": "1 пара джинс (Levis 501 или похожее)"
+    },
+    "payment_type": "oneoff",
+    "slug": "fashion"
+  },
+  {
+    "id": 62,
+    "category_name": {
+      "en": "Clothing And Shoes",
+      "ru": "Одежда и обувь"
+    },
+    "item_name": {
+      "en": "1 Summer Dress in a Chain Store (Zara, H&M, ...)",
+      "ru": "1 летнее платье в сетевых магазинах (Zara, H&M, ...)"
+    },
+    "payment_type": "oneoff",
+    "slug": "fashion"
+  },
+  {
+    "id": 64,
+    "category_name": {
+      "en": "Clothing And Shoes",
+      "ru": "Одежда и обувь"
+    },
+    "item_name": {
+      "en": "1 Pair of Nike Running Shoes (Mid-Range)",
+      "ru": "1 пара обуви Найк"
+    },
+    "payment_type": "oneoff",
+    "slug": "fashion"
+  },
+  {
+    "id": 66,
+    "category_name": {
+      "en": "Clothing And Shoes",
+      "ru": "Одежда и обувь"
+    },
+    "item_name": {
+      "en": "1 Pair of Men Leather Business Shoes",
+      "ru": "1 пара кожаных мужских туфлей"
+    },
+    "payment_type": "oneoff",
+    "slug": "fashion"
+  },
+  {
+    "id": 26,
+    "category_name": {
+      "en": "Rent Per Month",
+      "ru": "Аренда в месяц"
+    },
+    "item_name": {
+      "en": "Apartment (1 bedroom) in City Centre",
+      "ru": "Квартира (1 комната) в центре"
+    },
+    "payment_type": "monthly",
+    "slug": "rent"
+  },
+  {
+    "id": 27,
+    "category_name": {
+      "en": "Rent Per Month",
+      "ru": "Аренда в месяц"
+    },
+    "item_name": {
+      "en": "Apartment (1 bedroom) Outside of Centre",
+      "ru": "Квартира (1 комната) за центром"
+    },
+    "payment_type": "monthly",
+    "slug": "rent"
+  },
+  {
+    "id": 28,
+    "category_name": {
+      "en": "Rent Per Month",
+      "ru": "Аренда в месяц"
+    },
+    "item_name": {
+      "en": "Apartment (3 bedrooms) in City Centre",
+      "ru": "Квартира (3 комнаты) в центре"
+    },
+    "payment_type": "monthly",
+    "slug": "rent"
+  },
+  {
+    "id": 29,
+    "category_name": {
+      "en": "Rent Per Month",
+      "ru": "Аренда в месяц"
+    },
+    "item_name": {
+      "en": "Apartment (3 bedrooms) Outside of Centre",
+      "ru": "Квартира (3 комнаты) за центром"
+    },
+    "payment_type": "monthly",
+    "slug": "rent"
+  },
+  {
+    "id": 100,
+    "category_name": {
+      "en": "Buy Apartment Price",
+      "ru": "Покупка квартиры"
+    },
+    "item_name": {
+      "en": "Price per Square Meter to Buy Apartment in City Centre",
+      "ru": "За кв. метр в центре"
+    },
+    "payment_type": "oneoff",
+    "slug": "apartments"
+  },
+  {
+    "id": 101,
+    "category_name": {
+      "en": "Buy Apartment Price",
+      "ru": "Покупка квартиры"
+    },
+    "item_name": {
+      "en": "Price per Square Meter to Buy Apartment Outside of Centre",
+      "ru": "За кв. метр вне центра"
+    },
+    "payment_type": "oneoff",
+    "slug": "apartments"
+  },
+  {
+    "id": 105,
+    "category_name": {
+      "en": "Salaries And Financing",
+      "ru": "Зарплата и финансирование"
+    },
+    "item_name": {
+      "en": "Average Monthly Net Salary (After Tax)",
+      "ru": "Месячная (после уплаты налогов)"
+    },
+    "payment_type": "monthly",
+    "slug": "finance"
+  },
+  {
+    "id": 106,
+    "category_name": {
+      "en": "Salaries And Financing",
+      "ru": "Зарплата и финансирование"
+    },
+    "item_name": {
+      "en": "Mortgage Interest Rate in Percentages (%), Yearly",
+      "ru": "Ипотека (%, год)"
+    },
+    "payment_type": "yearly",
+    "slug": "finance"
+  }
+]

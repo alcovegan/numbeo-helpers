@@ -1,0 +1,23 @@
+{
+  "name": "numbeo-helpers",
+  "version": "1.0.0",
+  "description": "Helpers for translation data in Numbeo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --ui bdd --reporter spec ./tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alcovegan/numbeo-helpers.git"
+  },
+  "bugs": {
+  	"url": "https://github.com/alcovegan/numbeo-helpers/issues"
+  },
+  "keywords": ["numbeo", "translation", "russian", "english", "language", "api"],
+  "author": "Alexander Sharabarov <alcovegan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  }
+}

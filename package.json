@@ -1,6 +1,6 @@
 {
   "name": "numbeo-helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Helpers for translation data in Numbeo API",
   "main": "index.js",
   "scripts": {

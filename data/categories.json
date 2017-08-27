@@ -540,7 +540,7 @@
     },
     "item_name": {
       "en": "Preschool (or Kindergarten), Private, Monthly for 1 Child",
-      "ru": ""
+      "ru": "Дошкольный (или детский сад), частный, ежемесячно на 1 ребенка"
     },
     "payment_type": "monthly",
     "slug": "childcare"
@@ -553,7 +553,7 @@
     },
     "item_name": {
       "en": "International Primary School, Yearly for 1 Child",
-      "ru": ""
+      "ru": "Международная начальная школа, ежегодно для 1 ребенка"
     },
     "payment_type": "yearly",
     "slug": "childcare"
